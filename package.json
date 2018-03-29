@@ -29,6 +29,7 @@
         "vuex": "^2.2.1"
     },
     "devDependencies": {
+        "@vue/test-utils": "^1.0.0-beta.13",
         "autoprefixer": "^7.1.2",
         "babel-core": "^6.22.1",
         "babel-eslint": "^7.1.1",
@@ -79,6 +80,7 @@
         "portfinder": "^1.0.13",
         "postcss-import": "^11.0.0",
         "postcss-loader": "^2.0.8",
+        "prettier": "^1.11.1",
         "rimraf": "^2.6.0",
         "semver": "^5.3.0",
         "shelljs": "^0.7.6",
@@ -101,9 +103,5 @@
         "node": ">= 4.0.0",
         "npm": ">= 3.0.0"
     },
-    "browserslist": [
-        "> 1%",
-        "last 2 versions",
-        "not ie <= 8"
-    ]
+    "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"]
 }
