@@ -4,7 +4,7 @@
 
 ## Showcase
 
-For detailed explanation on what this showcase is all about, you can read my blog post [Efficient Code Analyzing and Formatting (for Vue.js) with ESLint and Prettier](https://doppelmutzi.github.io/eslint-prettier/). There, I also describe how you can setup even better _ESLint_ / _Prettier_ integration into [Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ](https://www.jetbrains.com/idea/).
+For detailed explanation on what this showcase is all about, you can read my blog post [Efficient Code Analyzing and Formatting (for Vue.js) with ESLint and Prettier](https://medium.com/@doppelmutzi/eslint-prettier-vue-workflow-46a3cf54332f). There, I also describe how you can setup even better _ESLint_ / _Prettier_ integration into [Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ](https://www.jetbrains.com/idea/).
 
 ## Build Setup
 
